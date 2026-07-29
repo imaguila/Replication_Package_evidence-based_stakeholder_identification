@@ -2,7 +2,7 @@
 
 # Replication Package:  evidence-based stakeholder identification .....
 
-This repository contains the replication datasets for the paper **"................."** by  José del Sagrado and Isabel M. del Águila  (Department of Informatics, University of Almería).
+This repository contains the replication datasets for the paper **"Evidence-based stakeholder identification and conflict management in a requirements prioritisation context"** by  José del Sagrado and Isabel M. del Águila  (Department of Informatics, University of Almería).
 
 
 ## Overview
