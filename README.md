@@ -120,19 +120,7 @@ a.1.2;27;14.321098
 | `ReqID` | String | Unique requirement identifier code. |
 | `[Stakeholder_Name]` | Numeric | Preference score assigned by the stakeholder (Rank position, Rating scale 0–5/-1, or Points budget allocation). |
 
----
 
-## Key Experimental Results Summary
-
-1. **Stakeholder Pool Reduction:**
-   * **OpenR:** Reduced from 127 candidates to 19 key stakeholders with AR (85.04% reduction) and 15 key stakeholders with HCR (88.19% reduction).
-   * **ClosedR:** Reduced from 76 candidates to 23 key stakeholders for both AR and HCR (69.74% reduction).
-2. **Conflict & Consensus Distance:**
-   * OpenR exhibits moderate conflict, resulting in a measurable consensus distance between HCR and AR ($d_{Euclidean} = 0.0936$).
-   * ClosedR exhibits high conflict ($3.14\times$ higher than OpenR), causing HCR to converge near AR ($d_{Euclidean} = 0.0298$).
-3. **Impact on Prioritisation:**
-   * Requirements prioritisation results are highly sensitive to the chosen preference elicitation technique (**Rank** is the most volatile, whereas **Rate** is more resilient).
-   * Key stakeholder filtering significantly alters requirement priorities compared to unvetted crowd aggregation.
 
 ---
 
