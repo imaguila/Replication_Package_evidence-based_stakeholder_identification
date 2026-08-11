@@ -2,8 +2,7 @@
 
 # Replication Package: Evidence-based stakeholder identification and conflict management in a requirements prioritisation context
 
-This repository contains the replication package and datasets for the paper "Evidence-based stakeholder identification and conflict management in a requirements prioritisation context" by José del Sagrado and Isabel M. del Águila (Department of Informatics, University of Almería).
-
+This repository contains the replication package and datasets for the paper 'Evidence-based stakeholder identification and conflict management in a requirements prioritisation context' [Anonymized for Double-Blind Review]
 
 ## Overview
 
